@@ -2,7 +2,7 @@
 <br>- 🚀 I'm a passionate developer focused on building modern web experiences.<br>- 💻 Currently exploring new technologies and working on personal projects.<br>- 🎓 Constantly learning and improving my coding skills.<br>- 📫 How to reach me: Check out my social links or open an issue!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinanuygun/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@oxidianofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oxidianme@gmail.com) 
 
 # 💻 Tech Stack:
