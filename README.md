@@ -55,9 +55,9 @@
 # 📊 GitHub Stats:</br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oxidiancode&show_icons=true&theme=radical" alt="Github Stats" /></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxidiancode&theme=radical" alt="Github Streak" /></br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oxidiancode&layout=compact&theme=radical" alt="Top Lang" /></br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinanalpuygun&show_icons=true&theme=radical" alt="Github Stats" /></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanalpuygun&theme=radical" alt="Github Streak" /></br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinanalpuygun&layout=compact&theme=radical" alt="Top Lang" /></br>
 </p></br>
 
 # 🌐 Socials:</br>
