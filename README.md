@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
  </p></br>
 
- ## 💻 IDE/EDITOR</br>
+ ## 🧩 IDE/EDITOR</br>
 
  <p align="center">
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
@@ -30,7 +30,7 @@
    
 </p></br>
 
-  ## ✨ FRAMEWORK</br>
+  ## 📱 FRAMEWORK</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
@@ -51,6 +51,13 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="StoryBook" />
 </p></br>
+
+# 👾 Volunteer / Open Source Contributions</br>
+### **MyFisApp ([Link](https://github.com/mg-teamsoft/fis-app-flutter))**
+ - **Contribution:** Refactored the architecture from monolithic to **MVVM (Model-View-ViewModel)** for better scalability and maintainability.
+ - **UI/UX & Theming:** Implemented a centralized Theme Management system, ensuring a consistent design language across the application.
+ - **Bug Fixes:** Resolved critical UI rendering issues and optimized business logic to eliminate state management errors.  
+
  
 # 📊 GitHub Stats:</br>
 
